@@ -2,11 +2,8 @@
   <a href="https://github.com/ADanback/sql-for-data-analysis/tree/Geomapping"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/media/geo-maps.jpg" alt="geo-maps" /></a>
 </h1>
 <p align="center">
-  <a href="https://github.com/tmcw/awesome-geojson"><img src="https://awesome.re/mentioned-badge.svg" alt="awesome-geojson" /></a>
-  <a href="https://github.com/ADanback/sql-for-data-analysis/releases"><img src="https://img.shields.io/github/tag/ADanback/sql-for-data-analysis.svg" alt="total downloads" /></a>
   <a href="http://geojson.org/"><img src="https://img.shields.io/badge/format-GeoJSON-e67e22.svg" alt="maps format" /></a>
   <a href="http://www.openstreetmap.org/"><img src="https://img.shields.io/badge/source-OSM-2ecc71.svg" alt="maps source" /></a>
-  <a href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/LICENSE"><img src="https://img.shields.io/github/license/ADanback/sql-for-data-analysis.svg" alt="software license" /></a>
   <a href="https://opendatacommons.org/licenses/odbl/1.0/"><img src="https://img.shields.io/badge/license-ODbL-2980b9.svg" alt="data license" /></a>
 </p>
 <br />
@@ -31,19 +28,14 @@ See the details for higher resolutions.
 All the maps are exported as GeoJSON and available to be downloaded directly as package on [npm](https://www.npmjs.com/org/geo-maps).  
 See the details of each map for more information on how to get started.
 
-Preview | Name | Short Description | Info Page
---------|------|-------------------|----------
-<a alt="see countries-coastline on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/countries-coastline.js"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/countries-coastline.png" height="100px"/></a> | countries-coastline | Countries' political coastline borders | <a alt="See countries-coastline details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/countries-coastline.md"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/media/details-button.png" height="50px"/></a>
-
-<a alt="see countries-land on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/countries-land.js"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/countries-land.png" height="100px"/></a> | countries-land | Countries' political land borders | <a alt="See countries-land details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/countries-land.md"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/media/details-button.png" height="50px"/></a>
-
-<a alt="see countries-maritime on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/countries-maritime.js"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/countries-maritime.png" height="100px"/></a> | countries-maritime | Countries' political maritime borders | <a alt="See countries-maritime details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/countries-maritime.md"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/media/details-button.png" height="50px"/></a>
-
-<a alt="see earth-coastlines on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/earth-coastlines.js"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/earth-coastlines.png" height="100px"/></a> | earth-coastlines | Earth's coastlines | <a alt="See earth-coastlines details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/earth-coastlines.md"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/media/details-button.png" height="50px"/></a>
-
-<a alt="see earth-lakes on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/earth-lakes.js"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/earth-lakes.png" height="100px"/></a> | earth-lakes | Earth's lakes | <a alt="See earth-lakes details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/earth-lakes.md"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/media/details-button.png" height="50px"/></a>
-
-<a alt="see earth-lands on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/earth-lands.js"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/earth-lands.png" height="100px"/></a> | earth-lands | Earth's lands | <a alt="See earth-lands details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/earth-lands.md"><img src="https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/media/details-button.png" height="50px"/></a
+ Name | Short Description | Info Page
+ -----|-------------------|----------
+<a alt="see countries-coastline on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/countries-coastline.js"> | countries-coastline | Countries' political coastline borders | <a alt="See countries-coastline details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/countries-coastline.md">See details</a>
+<a alt="see countries-land on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/countries-land.js"> | countries-land | Countries' political land borders | <a alt="See countries-land details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/countries-land.md">See details</a>
+<a alt="see countries-maritime on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/countries-maritime.js"> | countries-maritime | Countries' political maritime borders | <a alt="See countries-maritime details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/countries-maritime.md">See details</a>
+<a alt="see earth-coastlines on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/earth-coastlines.js"> | earth-coastlines | Earth's coastlines | <a alt="See earth-coastlines details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/earth-coastlines.md">See details</a>
+<a alt="see earth-lakes on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/earth-lakes.js"> | earth-lakes | Earth's lakes | <a alt="See earth-lakes details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/earth-lakes.md">See details</a>
+<a alt="see earth-lands on geojson.io" href="http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/ADanback/sql-for-data-analysis/Geomapping/earth-lands.js"> | earth-lands | Earth's lands | <a alt="See earth-lands details" href="https://github.com/ADanback/sql-for-data-analysis/blob/Geomapping/info/earth-lands.md">See details</a>
 
 ## Conversion to other formats
 If you need to convert maps in any of Shapefile, TopoJSON, CSV, SVG formats you can use the [mapshaper's web interface](mapshaper.org) to export the map in the format of your need.  
